@@ -1,0 +1,5 @@
+gradio
+librosa
+numpy
+soundfile
+neo4j
