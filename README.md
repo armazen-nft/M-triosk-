@@ -3,7 +3,7 @@
 Arquitetura para emular **historicidade dos sentidos humanos**, **consciência encarnada** (8 módulos) e **percepção musical vibratória**.  
 Construindo "matrioskas de sentido" — IAs que traduzem experiências sensoriais entre épocas, culturas e corpos.
 
-**Status:** MVP em desenvolvimento · Repo ativo · Colaboração bem-vinda 🧠🎵
+**Status:** MVP em desenvolvimento · Repo ativo · Colaboração bem-vinda 
 
 ## Conceito em poucas palavras
 
